@@ -10,8 +10,8 @@
 // Script will process and parse any SMS sent to your webhook from BulkVS
 // and forward the text to a number of your choosing.
 
-//----- Begin Script --------//
 
+//----- Begin Script --------//
 
 //----- Request validation - two steps --------//
 
